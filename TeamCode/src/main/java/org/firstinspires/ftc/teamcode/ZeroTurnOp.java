@@ -12,7 +12,7 @@ import java.util.Iterator;
  * Created by 970098955 on 10/29/2016.
  */
 
-@TeleOp(name = "Fall Festival", group = "misc")
+@TeleOp(name = "ZeroTurn")
 public class ZeroTurnOp extends OpMode{
 
     private ElapsedTime runtime = new ElapsedTime();
